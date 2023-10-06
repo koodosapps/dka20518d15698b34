@@ -1,4 +1,5 @@
-"calmly":{
+{
+    "calmly":{
     "isAdsOn": true,
     "isAppOpenAdOn": true,
     "isNativeAdOn": true,
@@ -34,4 +35,6 @@
         "rewardMessage": "No rewards to claim check back again in sometime",
       },
     }
+}
+
 }
