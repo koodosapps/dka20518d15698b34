@@ -1,3 +1,37 @@
-{
-    "name":"calmly",
+"calmly":{
+    "isAdsOn": true,
+    "isAppOpenAdOn": true,
+    "isNativeAdOn": true,
+    "maxAdFailCounter": 4,
+    "screens": {
+      "Home": {
+        "localAdFlag": true,
+      },
+        "Mindful": {
+        "localAdFlag": true,
+        "shareRewardedOn": true,
+      },
+        "MindfulDetails": {
+        "localAdFlag": true,
+        "shareRewardedOn": true,
+      },
+        "Meditate": {
+        "localAdFlag": true,
+      },
+        "Bookmarks": {
+        "localAdFlag": true,
+        "shareRewardedOn": true,
+      },
+        "Offers": {
+        "localAdFlag": true,
+      },
+        "OfferList": {
+        "localAdFlag": true,
+      },
+        "OfferDetail": {
+        "localAdFlag": true,
+        "rewardedOn": true,
+        "rewardMessage": "No rewards to claim check back again in sometime",
+      },
+    }
 }
